@@ -1,0 +1,182 @@
+.loginregister-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--primary-01);
+  width: 90rem;
+  height: 5rem;
+}
+.home {
+  position: absolute;
+  top: 1.75rem;
+  left: 19.625rem;
+}
+.appointment-scheduler,
+.help-support {
+  position: absolute;
+  top: 1.75rem;
+  left: 27rem;
+  font-weight: 600;
+}
+.help-support {
+  left: 45.25rem;
+  font-weight: 300;
+  white-space: pre-wrap;
+}
+.sarva,
+.svastha {
+  position: absolute;
+  top: 0.813rem;
+  left: 3.875rem;
+  font-size: var(--font-size-9xl);
+}
+.svastha {
+  top: 2.188rem;
+  left: 5.313rem;
+  color: var(--primary-02);
+}
+.loginregister1 {
+  position: relative;
+  font-weight: 500;
+}
+.loginregister-wrapper {
+  position: absolute;
+  top: 1.188rem;
+  left: 74.563rem;
+  border-radius: 12.17px;
+  background-color: var(--neutrals-13);
+  width: 10.8rem;
+  height: 2.688rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0.506rem 1.318rem;
+  box-sizing: border-box;
+  font-size: 1.113rem;
+  color: var(--primary-01);
+}
+.loginregister-item {
+  position: absolute;
+  top: 5rem;
+  left: 0;
+  background-color: var(--primary-01);
+  width: 45rem;
+  height: 59rem;
+}
+.hospitalsclinics {
+  color: var(--primary-02);
+}
+.a-digitalized-platform,
+.for-hospitalsclinics {
+  position: relative;
+  letter-spacing: 0.05em;
+  line-height: 120%;
+  display: inline-block;
+}
+.for-hospitalsclinics {
+  width: 38.688rem;
+  font-weight: 500;
+}
+.a-digitalized-platform {
+  width: 34.938rem;
+  font-size: var(--font-size-5xl);
+  text-align: center;
+}
+.for-hospitalsclinics-parent {
+  position: absolute;
+  top: 25.563rem;
+  left: 3.188rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  font-size: var(--font-size-37xl);
+  color: var(--neutrals-14);
+}
+.login {
+  position: relative;
+  letter-spacing: 0.05em;
+  line-height: 120%;
+  font-weight: 500;
+}
+.login-wrapper {
+  position: absolute;
+  top: 37.188rem;
+  left: 16.813rem;
+  border-radius: var(--br-xs);
+  background-color: var(--neutrals-14);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-37xl);
+  font-size: var(--font-size-7xl);
+  color: var(--primary-shade);
+}
+.didnt-register-yourself-container {
+  position: absolute;
+  top: 42.125rem;
+  left: 12.438rem;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.05em;
+  line-height: 120%;
+  color: var(--neutrals-14);
+}
+.patients {
+  color: var(--primary-shade);
+}
+.for-patients-parent,
+.login-container {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.for-patients-parent {
+  top: 25.563rem;
+  left: 50.063rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  font-size: var(--font-size-37xl);
+  color: var(--neutrals-01);
+}
+.login-container {
+  top: 37.188rem;
+  left: 61.875rem;
+  border-radius: var(--br-xs);
+  background-color: var(--primary-shade);
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-37xl);
+  font-size: var(--font-size-7xl);
+}
+.dont-have-an-container {
+  position: absolute;
+  top: 42.125rem;
+  left: 57.875rem;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.05em;
+  line-height: 120%;
+  color: var(--neutrals-01);
+}
+.loginregister-inner {
+  position: absolute;
+  top: 56.563rem;
+  left: calc(50% - 730px);
+  background-color: var(--neutrals-03);
+  width: 91.313rem;
+  height: 18.563rem;
+}
+.loginregister {
+  width: 100%;
+  position: relative;
+  background-color: var(--neutrals-13);
+  height: 75.125rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--neutrals-13);
+  font-family: var(--font-roboto);
+}
